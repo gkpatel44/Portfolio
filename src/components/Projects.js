@@ -12,9 +12,7 @@ const Projects = () => {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+           Here is my Project wich i build for my practise. To see the Details of project hover your mouse on image given below.by click on image you will be redirect to my github profile where you can find more project which i build
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
